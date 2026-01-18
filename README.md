@@ -25,9 +25,8 @@ El plugin funciona mediante comandos de chat y no requiere interfaz gráfica.
 
 ## 🚀 Comandos
 Mass Move
-- !mm - Mueve a todos (incluido tú) a tu canal actual.
-- !mm <id|nombre>
-Mueve a todos a un canal específico por ID o nombre.
+- !mm - Mueve a todos a tu canal actual.
+- !mm <id|nombre> - Mueve a todos a un canal específico por ID o nombre.
   - Ejemplo: !mm Canal 1
 
 Mass Poke
