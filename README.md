@@ -35,7 +35,7 @@ Mass Poke
 
 Mass Kick
 - !mk - Kick a todos los usuarios del canal actual.
-- !mk <id|nombre> - Kick masivo por canal específico. -
+- !mk <id|nombre> - Kick masivo por canal específico.
   - Ejemplo: !mk AFK
 
 Help
