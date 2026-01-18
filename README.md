@@ -18,14 +18,14 @@ El plugin funciona mediante comandos de chat y no requiere interfaz gráfica.
 1. Descarga el archivo `AckorMassTools.dll`
 2. Copia el archivo en la carpeta de plugins de TeamSpeak
 3. ¿Cómo llegar a esta ruta?, presiona Windows + R e intruduce:
-4. %appdata%\TS3Client\plugins
+4. `%appdata%\TS3Client\plugins`
 5. Reinicia TeamSpeak
 6. Activa el plugin en:
    **Tools → Options → Addons → Plugins**
 ---
 
 ## 📖 Comandos disponibles
-### Mass Move
+Mass Move
 !mm 
 Mueve a todos (incluido tú) a tu canal actual.
 !mm <id|nombre>
