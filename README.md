@@ -6,7 +6,7 @@ El plugin funciona mediante comandos de chat y no requiere interfaz gráfica.
 
 ## 🔧 Requisitos
 
-- TeamSpeak 3 Client
+- TeamSpeak 3 Client (64 bits)
 - API 26 o superior (TeamSpeak 3.5.x o superior)
 - Microsoft Visual C++ Redistributable 2015–2022 (x64) https://aka.ms/vc14/vc_redist.x64.exe
 
@@ -44,8 +44,8 @@ Help
 
 ## ⚠️ Notas importantes
 
-- El plugin **no fuerza permisos**.
-- Si no tienes permisos suficientes, el propio servidor TeamSpeak rechazará la acción.
+- El plugin no fuerza permisos.
+- *Si no tienes permisos suficientes, el propio servidor TeamSpeak rechazará la acción*.
 - El plugin solo responde a comandos escritos por el propio usuario.
 ---
 
