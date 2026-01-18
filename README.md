@@ -8,6 +8,7 @@ El plugin funciona mediante comandos de chat y no requiere interfaz gráfica.
 
 - TeamSpeak 3 Client
 - API 26 o superior (TeamSpeak 3.5.x o superior)
+- Microsoft Visual C++ Redistributable 2015–2022 (x86 y x64) https://aka.ms/vc14/vc_redist.x64.exe
 
 ---
 
