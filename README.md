@@ -1,10 +1,8 @@
 # AckorMassTools
 Ackor Mass Tools es un plugin para TeamSpeak 3 que proporciona comandos administrativos
 para mover, expulsar y enviar poke masivo a los usuarios de un servidor.
-
 El plugin funciona mediante comandos de chat y no requiere interfaz gráfica.
 
----
 
 ## 🔧 Requisitos
 
@@ -24,35 +22,24 @@ El plugin funciona mediante comandos de chat y no requiere interfaz gráfica.
    **Tools → Options → Addons → Plugins**
 ---
 
-## 📖 Comandos disponibles
+## 🚀 Comandos
 Mass Move
-!mm 
-Mueve a todos (incluido tú) a tu canal actual.
-!mm <id|nombre>
+- !mm - Mueve a todos (incluido tú) a tu canal actual.
+- !mm <id|nombre>
 Mueve a todos a un canal específico por ID o nombre.
-!mm Canal AFK
----
+  - Ejemplo: !mm Canal AFK
 
-### Mass Poke
-Envía un poke masivo a todos los usuarios conectados.
-!mp <mensaje>
-Ejemplo:
-!mp Reunion en 5 minutos
----
+Mass Poke
+- !mp <mensaje> - Envía un poke masivo a todos los usuarios conectados.
+  - Ejemplo: !mp Reunion en 5 minutos
 
-### Mass Kick
-!mk
-Kick a todos los usuarios del canal actual.
-!mk <id|nombre>
-Kick masivo por canal específico.
-Ejemplo:
-!mk AFK
----
+Mass Kick
+- !mk - Kick a todos los usuarios del canal actual.
+- !mk <id|nombre> - Kick masivo por canal específico. -
+  - Ejemplo: !mk AFK
 
-### Ayuda
-!help
-
-Muestra la lista de comandos disponibles dentro del cliente.
+Help
+- !help - Muestra la lista de comandos disponibles dentro del cliente.
 ---
 
 ## ⚠️ Notas importantes
@@ -60,11 +47,8 @@ Muestra la lista de comandos disponibles dentro del cliente.
 - El plugin **no fuerza permisos**.
 - Si no tienes permisos suficientes, el propio servidor TeamSpeak rechazará la acción.
 - El plugin solo responde a comandos escritos por el propio usuario.
-
 ---
 
-## 👤 Autor
+### 👑 DUDAS SOBRE EL PLUGIN?, CONTACTAME:
+<a href="http://wa.me/528251002140" target="blank"><img src="https://img.shields.io/badge/ACKOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-**Ackor**
-
----
