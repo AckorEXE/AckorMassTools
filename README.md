@@ -28,7 +28,7 @@ Mass Move
 - !mm - Mueve a todos (incluido tú) a tu canal actual.
 - !mm <id|nombre>
 Mueve a todos a un canal específico por ID o nombre.
-  - Ejemplo: !mm Canal AFK
+  - Ejemplo: !mm Canal 1
 
 Mass Poke
 - !mp <mensaje> - Envía un poke masivo a todos los usuarios conectados.
