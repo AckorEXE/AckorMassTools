@@ -49,6 +49,3 @@ Help
 - El plugin solo responde a comandos escritos por el propio usuario.
 ---
 
-### 👑 DUDAS SOBRE EL PLUGIN?, CONTACTAME:
-<a href="http://wa.me/528251002140" target="blank"><img src="https://img.shields.io/badge/ACKOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
