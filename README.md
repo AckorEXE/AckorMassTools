@@ -28,6 +28,9 @@ Mass Move
 - !mm - Mueve a todos a tu canal actual.
 - !mm <id|nombre> - Mueve a todos a un canal específico por ID o nombre.
   - Ejemplo: !mm Canal 1
+- !ma - Mueve solo AFK/muteados a tu canal.
+- !ma <id|nombre>  -> Mueve solo AFK/muteados a otro canal.
+  -  Ejemplo: !ma AFK
 
 Mass Poke
 - !mp <mensaje> - Envía un poke masivo a todos los usuarios conectados.
@@ -37,6 +40,7 @@ Mass Kick
 - !mk - Kick a todos los usuarios del canal actual.
 - !mk <id|nombre> - Kick masivo por canal específico.
   - Ejemplo: !mk AFK
+- !mka - Kick masivo solo a AFK/muteados.
 
 Help
 - !help - Muestra la lista de comandos disponibles dentro del cliente.
