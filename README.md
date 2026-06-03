@@ -53,3 +53,4 @@ Help
 - El plugin solo responde a comandos escritos por el propio usuario.
 ---
 
+Desarrollado con ❤️ por **AckorEXE**
